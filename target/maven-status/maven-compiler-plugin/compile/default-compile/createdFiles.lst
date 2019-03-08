@@ -1,0 +1,6 @@
+com/myretail/model/CurrentPrice.class
+com/myretail/service/ProductDescriptionService.class
+com/myretail/controller/ProductDescriptionController.class
+com/myretail/model/ProductDescription.class
+com/myretail/repository/PriceRepository.class
+com/myretail/MyRetailApplication.class
